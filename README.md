@@ -18,12 +18,16 @@ readme_content = """# Blinkit Sales Customer Analytics Dashboard
  **Feedback Analytics** – Customer sentiment analysis and ratings  
 
 ## Dashboard Snapshots
-![Dashboard 1](Dashboard/Dashboard 1.png)  
-![Dashboard 2](Dashboard/Dashboard%2.png)  
+### 📌 **Local Repository References**
+If images are stored in the `Dashboard` folder, use:
+
+```md
+![Dashboard 1](Dashboard/Dashboard%201.png)  
+![Dashboard 2](Dashboard/Dashboard%202.png)  
 ![Dashboard 3](Dashboard/Dashboard%203.png)  
 ![Dashboard 4](Dashboard/Dashboard%204.png)  
 ![Dashboard 5](Dashboard/Dashboard%205.png)  
-![Dashboard 6](Dashboard/Dashboard%206.png) 
+![Dashboard 6](Dashboard/Dashboard%206.png)  
 
 ![Dashboard 1](https://raw.githubusercontent.com/DhanyaRS0508/Blinkit-Sales-Customer-Analytics-Dashboard-/main/Dashboard/Dashboard%201.png)
 ![Dashboard 2](https://raw.githubusercontent.com/DhanyaRS0508/Blinkit-Sales-Customer-Analytics-Dashboard-/main/Dashboard/Dashboard%202.png)
@@ -31,6 +35,7 @@ readme_content = """# Blinkit Sales Customer Analytics Dashboard
 ![Dashboard 4](https://raw.githubusercontent.com/DhanyaRS0508/Blinkit-Sales-Customer-Analytics-Dashboard-/main/Dashboard/Dashboard%204.png)
 ![Dashboard 5](https://raw.githubusercontent.com/DhanyaRS0508/Blinkit-Sales-Customer-Analytics-Dashboard-/main/Dashboard/Dashboard%205.png)
 ![Dashboard 6](https://raw.githubusercontent.com/DhanyaRS0508/Blinkit-Sales-Customer-Analytics-Dashboard-/main/Dashboard/Dashboard%206.png)
+
 
 
 

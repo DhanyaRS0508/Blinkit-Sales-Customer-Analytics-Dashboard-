@@ -21,7 +21,7 @@ readme_content = """# Blinkit Sales Customer Analytics Dashboard
 ### 📌 **Local Repository References**
 If images are stored in the `Dashboard` folder, use:
 
-![Dashboard 1](https://raw.githubusercontent.com/DhanyaRS0508/Blinkit-Sales-Customer-Analytics-Dashboard-/main/Dashboard/Dashboard%201.png)
+![Dashboard 1](https://raw.githubusercontent.com/DhanyaRS0508/Blinkit-Sales-Customer-Analytics-Dashboard-/main/Dashboard /Dashboard%201.png)
 ![Dashboard 2](https://raw.githubusercontent.com/DhanyaRS0508/Blinkit-Sales-Customer-Analytics-Dashboard-/main/Dashboard/Dashboard%202.png)
 ![Dashboard 3](https://raw.githubusercontent.com/DhanyaRS0508/Blinkit-Sales-Customer-Analytics-Dashboard-/main/Dashboard/Dashboard%203.png)
 ![Dashboard 4](https://raw.githubusercontent.com/DhanyaRS0508/Blinkit-Sales-Customer-Analytics-Dashboard-/main/Dashboard/Dashboard%204.png)

@@ -18,7 +18,7 @@ readme_content = """# Blinkit Sales Customer Analytics Dashboard
  **Feedback Analytics** – Customer sentiment analysis and ratings  
 
 ## Dashboard Snapshots
-![Dashboard 1](Dashboard%201.png)  
+![Dashboard 1](Dashboard/Dashboard 1.png)  
 ![Dashboard 2](Dashboard%202.png)  
 ![Dashboard 3](Dashboard%203.png)  
 ![Dashboard 4](Dashboard%204.png)  

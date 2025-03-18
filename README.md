@@ -22,11 +22,11 @@ readme_content = """# Blinkit Sales Customer Analytics Dashboard
 If images are stored in the `Dashboard` folder, use:
 
 ![Dashboard 1](Dashboard/Dashboard1.png)  
-![Dashboard 2](Dashboard/Dashboard%202.png)  
-![Dashboard 3](Dashboard/Dashboard%203.png)  
-![Dashboard 4](Dashboard/Dashboard%204.png)  
-![Dashboard 5](Dashboard/Dashboard%205.png)  
-![Dashboard 6](Dashboard/Dashboard%206.png)  
+![Dashboard 2](Dashboard/Dashboard2.png)  
+![Dashboard 3](Dashboard/Dashboard3.png)  
+![Dashboard 4](Dashboard/Dashboard4.png)  
+![Dashboard 5](Dashboard/Dashboard5.png)  
+![Dashboard 6](Dashboard/Dashboard6.png)  
 
 
 
